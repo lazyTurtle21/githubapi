@@ -49,7 +49,7 @@ gym==0.14.0
 h5py==2.9.0
 holidays==0.9.11
 htmlmin==0.1.12
-httplib2==0.12.3
+httplib2==0.18.0
 hyperas==0.4.1
 hyperopt==0.2.2
 idna==2.8
