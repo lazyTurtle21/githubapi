@@ -21,7 +21,7 @@ colours==0.3
 confuse==1.0.0
 convertdate==2.2.0
 coverage==4.5.4
-cryptography==2.7
+cryptography==3.2
 curses-menu==0.5.0
 cycler==0.10.0
 Cython==0.29.14
