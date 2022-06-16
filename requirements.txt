@@ -98,7 +98,7 @@ neat==0.4.1
 neat-python==0.92
 networkx==2.2
 nltk==3.4.5
-notebook==6.0.0
+notebook==6.4.12
 numba==0.46.0
 numpy==1.16.2
 oauth2==1.9.0.post1
