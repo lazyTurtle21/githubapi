@@ -10,7 +10,7 @@ Authlib==0.11
 backcall==0.1.0
 bleach==3.1.0
 cachetools==3.1.1
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 classifiers==2019.4.13
